@@ -36,3 +36,15 @@ div{
         top: 630px;
     }
 }
+
+@media (max-width:770px ){
+    #fotodeperfil{
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px gray;
+        left: 33%;
+        top: 500px;
+        bottom: 33%;
+    }
+}
